@@ -1,0 +1,8 @@
+page\ResultsPage.class
+test\BaseTest.class
+test\AvTest.class
+page\HomePage.class
+service\TestDataReader.class
+page\BasePage.class
+utils\Waits.class
+driver\DriverSingleton.class
